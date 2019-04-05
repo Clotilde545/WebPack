@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="015b78da-d7d2-4f90-aaea-6b804485e690" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HTML_CSS_Responsive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP_GIT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git commandes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/01-lesBases/01-declarationScript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/01-lesBases/01-declarationScript/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/01-lesBases/02-lesVariables/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/01-lesBases/02-lesVariables/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/01-lesBases/03-lesOperateurs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/01-lesBases/03-lesOperateurs/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/01-lesBases/04-leslittereauxDeTemplates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/01-lesBases/04-leslittereauxDeTemplates/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/02-lesTableaux/01-presentation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/02-lesTableaux/01-presentation/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/02-lesTableaux/02-parcourirLesTableaux/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/02-lesTableaux/02-parcourirLesTableaux/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/02-lesTableaux/03-exercices/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/02-lesTableaux/03-exercices/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/03-lesFonctions/01-DefinitionEtAppel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/03-lesFonctions/01-DefinitionEtAppel/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/03-lesFonctions/02-restSpread/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/03-lesFonctions/02-restSpread/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/03-lesFonctions/03-Exercices/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/03-lesFonctions/03-Exercices/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/04-lesObjets/01-Presentation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/04-lesObjets/01-Presentation/script/pierreAppelObjet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/04-lesObjets/01-Presentation/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/04-lesObjets/02-ObjetPredefini/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/04-lesObjets/02-ObjetPredefini/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/01-Bases/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/01-Bases/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/02-evenements/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/02-evenements/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/04-exercices/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/04-exercices/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/04-exercices/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/04-exercices/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/04-exercices/script/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/04-exercices/script/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/01-gallery" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/app/component/component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/app/component/thumbnails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/app/component/viewer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/app/gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/acatos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/albator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/barracuda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/dark-knight-joker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/freddy-krueger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/harry-pottux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/kenny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/mario.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/napolétux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/narutux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/pilot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/tortux-ninja.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/tux-croft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/tux-nroses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/tux-slipknot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/tux34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/img/tuxwalker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/tux.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ohshitgitcom.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pierre/app/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pierre/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pierre/ini01.py" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/TP.css" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/TP.html" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_final.zip" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices.zip" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/bulle.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/facebook.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/flecheblanchedroite.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/flickr.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/fond_degraderouge.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/fond_jaune.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/ico_epingle.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/ico_liensexterne.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/ico_top.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/ombre.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/photo1.jpg" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/photo2.jpg" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/photo3.jpg" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/photo4.jpg" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/rss.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/sanfrancisco.jpg" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/separateur.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/twitter.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/vimeo.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/zozor_classe.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/images/zozor_logo.png" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/polices/ballpark.eot" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/polices/ballpark.svg" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/polices/ballpark.ttf" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/polices/ballpark.woff" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/polices/dayrom.eot" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/polices/dayrom.svg" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/polices/dayrom.ttf" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/TP/tp_images_polices/polices/dayrom.woff" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/audio_video.html" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/cases_cocher.html" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/finalisation_formulaire.html" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/formulaires.css" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/formulaires.html" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/responsive-all.css" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/responsive.css" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/responsive.html" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/tableaux.css" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/tableaux.html" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/tableaux_structure.css" afterDir="false" />
+      <change afterPath="D:/HTML5/chap4/tableaux_structure.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/TP.css" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/TP.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_final.zip" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices.zip" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/bulle.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/facebook.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/flecheblanchedroite.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/flickr.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/fond_degraderouge.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/fond_jaune.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/ico_epingle.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/ico_liensexterne.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/ico_top.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/ombre.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/photo1.jpg" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/photo2.jpg" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/photo3.jpg" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/photo4.jpg" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/rss.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/sanfrancisco.jpg" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/separateur.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/twitter.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/vimeo.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/zozor_classe.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/images/zozor_logo.png" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/polices/ballpark.eot" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/polices/ballpark.svg" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/polices/ballpark.ttf" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/polices/ballpark.woff" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/polices/dayrom.eot" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/polices/dayrom.svg" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/polices/dayrom.ttf" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/TP/tp_images_polices/polices/dayrom.woff" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/anciennes-balise-mise-en-forme.css" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/anciennes-balise-mise-en-forme.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/anciennes-balise-mise-en-forme2.css" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/anciennes-balise-mise-en-forme2.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/balise-strictutrante.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/centrage.css" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/centrage.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/cours1.css" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/cours1.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/cours2.css" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/cours2.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/flexbox.css" afterDir="false" />
+      <change afterPath="D:/HTML5/html - chapt3/flexbox.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html/contenu/page3.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html/images.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html/liens.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html/liste.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html/organiser le texte.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html/page2.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html/page3.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html/test.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html/test2.html" afterDir="false" />
+      <change afterPath="D:/HTML5/html/titre" afterDir="false" />
+      <change afterPath="D:/HTML5/html/titre.html" afterDir="false" />
+      <change afterPath="D:/System Volume Information/IndexerVolumeGuid" afterDir="false" />
+      <change afterPath="D:/System Volume Information/WPSettings.dat" afterDir="false" />
+      <change afterPath="D:/css/1er-cours.html" afterDir="false" />
+      <change afterPath="D:/css/2eme-cours.html" afterDir="false" />
+      <change afterPath="D:/css/base.css" afterDir="false" />
+      <change afterPath="D:/css/logo.png" afterDir="false" />
+      <change afterPath="D:/css/outil-dynaamique.html" afterDir="false" />
+      <change afterPath="D:/css/police/MaSuperPolice.eot" afterDir="false" />
+      <change afterPath="D:/css/police/MaSuperPolice.svg.svg" afterDir="false" />
+      <change afterPath="D:/css/police/MaSuperPolice.truetype.ttf" afterDir="false" />
+      <change afterPath="D:/css/police/MaSuperPolice.woff" afterDir="false" />
+      <change afterPath="D:/css/simpson.jpg" afterDir="false" />
+      <change afterPath="D:/css/style.css" afterDir="false" />
+      <change afterPath="D:/css/style2.css" afterDir="false" />
+      <change afterPath="D:/css/style3.css" afterDir="false" />
+      <change beforePath="D:/app/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pierre/app/gallery.js" afterDir="false" />
+      <change beforePath="D:/app/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/app/main.js" afterDir="false" />
+      <change beforePath="D:/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/05-DOM/exosPierre/gallery-master/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/webpack.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webpack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="015b78da-d7d2-4f90-aaea-6b804485e690" name="Default Changelist" comment="" />
+      <created>1554450527800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554450527800</updated>
+      <workItem from="1554450528905" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
